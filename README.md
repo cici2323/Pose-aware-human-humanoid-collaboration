@@ -1,11 +1,10 @@
-# Pose-aware Human–Humanoid Collaboration in Construction
+# Human pose guides adaptive humanoid collaboration in construction
 
-Project page for **Pose-aware human–humanoid collaboration in construction**.
+Project page for **Human pose guides adaptive humanoid collaboration in construction**.
 
-Yanxi Liu<sup>1</sup>, Houtan Jebelli<sup>2</sup>, Yizhi Liu<sup>1,\*</sup>
+Yanxi Liu<sup>1</sup>, Yizhi Liu<sup>1,\*</sup>
 
-<sup>1</sup>Department of Civil and Environmental Engineering, Syracuse University
-<sup>2</sup>Department of Civil and Environmental Engineering, University of Illinois Urbana–Champaign
+<sup>1</sup>Syracuse University
 
 <sup>\*</sup>Corresponding author: yliu580@syr.edu
 
